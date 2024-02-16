@@ -1,5 +1,5 @@
 {
-  "name": "minimal-reproduction-vocs-fonts",
+  "name": "minimal-reproduction-vocs",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -13,3 +13,4 @@
     "vocs": "latest"
   }
 }
+   
